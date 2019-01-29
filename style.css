@@ -1,0 +1,21 @@
+body{
+	font-family: arial;
+	margin: 0;
+}
+
+img{
+	height: 100px;
+	width: 100px;
+}
+
+.container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 50vh;
+	flex-direction: column;
+}
+
+.container h1{
+	font-size: 30px;
+}
