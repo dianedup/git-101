@@ -14,8 +14,10 @@ img{
 	justify-content: center;
 	height: 50vh;
 	flex-direction: column;
+	background-color: rgb(235,235,235);
 }
 
 .container h1{
 	font-size: 30px;
+	color: ;
 }
